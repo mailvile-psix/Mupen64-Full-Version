@@ -237,4 +237,4 @@ This repository serves as the official landing page for Mupen64. The software is
 **Get the most recent version of Mupen64 today!**
 
 ---
-**Last updated:** 2026-09-15 23:25:47 UTC
+**Last updated:** 2026-09-16 03:36:44 UTC
